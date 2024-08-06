@@ -1,4 +1,4 @@
-package com.dmc3105.customauthentication.service;
+package com.dmc3105.customauthentication.security;
 
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.crypto.codec.Hex;

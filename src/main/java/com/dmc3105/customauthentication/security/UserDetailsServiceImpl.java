@@ -1,4 +1,4 @@
-package com.dmc3105.customauthentication.service;
+package com.dmc3105.customauthentication.security;
 
 import com.dmc3105.customauthentication.repository.UserRepository;
 import lombok.AllArgsConstructor;

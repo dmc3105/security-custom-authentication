@@ -1,4 +1,4 @@
-package com.dmc3105.customauthentication.service;
+package com.dmc3105.customauthentication.security;
 
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

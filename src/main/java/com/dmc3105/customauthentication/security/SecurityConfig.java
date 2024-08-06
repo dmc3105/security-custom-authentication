@@ -1,6 +1,5 @@
 package com.dmc3105.customauthentication.security;
 
-import com.dmc3105.customauthentication.service.HexAuthenticationFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.authentication.AuthenticationManager;
