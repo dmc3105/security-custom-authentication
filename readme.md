@@ -5,4 +5,4 @@
 
 A training project to understand the processes that occur during authentication in spring security
 
-For authentication, use the **Authentication** header, in which you need to put **login:password** encoded in **base16** using the prefix **Hex**
+For authentication, use the **Authorization** header, in which you need to put **login:password** encoded in **base16** using the prefix **Hex**
